@@ -1,0 +1,10 @@
+llama-index
+llama-index-embeddings-gemini
+llama-index-llms-groq
+llama-index-readers-llama-parse
+llama-index-vector-stores-pinecone
+llama-parse
+llama-cloud
+groq
+pinecone
+"google-genrativeai"
